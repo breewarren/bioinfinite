@@ -8,9 +8,6 @@ A full-stack web application, created with:
 ### App Description:
 Created by Devin Davis and Bree Warren, BioInfinite serves as an interactive learning tool that allows a user to gain knowledge in several subjects in the scope of Biology.
 
------
-## Instructions:
-### Click [here](http://localhost:3000/) to begin the application!
 ----
 
 ## Models & Relationships
